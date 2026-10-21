@@ -1,6 +1,6 @@
 # Midterm Project - ETC Desktop
 
-Nama: Lyonel Oliver Dwiputra
+Nama: Lyonel Oliver Dwiputra     
 NRP: 5025241145
 Prodi: Teknik Informatika  
 Mata Kuliah: Pemrograman Berbasis Kerangka Kerja  
