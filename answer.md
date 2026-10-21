@@ -42,6 +42,6 @@ ETC dibuat untuk memusatkan semua itu dalam satu aplikasi yang terstruktur.
 
 
 
-# 1. Poster Infografis
+# 3. Poster Infografis
 
 ![Poster ETC](assets/poster.png)
